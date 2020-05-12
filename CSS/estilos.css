@@ -1,0 +1,30 @@
+body{
+    background-image: url('https://www.google.com/search?q=imagem+hd&sxsrf=ALeKk025X7p49ItOoMuwGveU3XK6XV0mGA:1589238318204&tbm=isch&source=iu&ictx=1&fir=TXWdLOIkq0eYOM%253A%252ChV6-ElpTH1p_RM%252C_&vet=1&usg=AI4_-kRKnMtcsmVeA-dg6I2bEZyZAZbLOg&sa=X&ved=2ahUKEwj3ra2L9qzpAhXKD7kGHXR2DacQ_h0wBHoECA4QCg#imgrc=TXWdLOIkq0eYOM:');
+    background-size: auto 100vh;
+    height: 100vh;
+    font-family:Arial;
+  }
+  .menu{
+    background-color: #324567;
+  }
+  .menu ul{
+    display: flex;
+    justify-content: space-around;
+  }
+  .menu li{
+    list-style: none;
+  }
+  a{
+    text-decoration:none;
+    color: teal;
+  }
+  a:hover{
+    text-decoration:underline;
+  }
+  .site-subtitle, .site-title{
+    color: #324567;
+    text-align: center;
+  }
+  .site-subtitle{
+    font-style: italic;
+  }
